@@ -15,7 +15,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-7.x-47A248)](https://www.mongodb.com/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)](https://www.docker.com/)
 
-**Made By: MrYuvraj** | [Discord: mryuvraj2](https://discord.gg/mryuvraj2)
+**Made By: MrYuvraj** | [Discord: mryuvraj2](https://discord.gg/PBwNskfvyD)
 
 </div>
 
